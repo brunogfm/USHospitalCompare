@@ -15,6 +15,7 @@ The data come from the Hospital Compare web site (http://hospitalcompare.hhs.gov
 - best.R: Contains the function best(state, outcome)
 - rankhospital.R: Contains the function rankhospital(state, outcome, rank)
 - rankall.R: Contains the function rankall(outcome, rank)
+- common.R: Contains common functions among the main functions of the project
 
 ### Functions
 
